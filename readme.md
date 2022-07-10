@@ -4,8 +4,6 @@ It is a demo project for demonstrating what can be generated with [QuickAdminPan
 LaraTime is all generated with __QuickAdmin__ except for custom code for __Reports__ functionality.
 
 
-demo - https://youtu.be/1f9xvRfXPKI
-
 
 
 
